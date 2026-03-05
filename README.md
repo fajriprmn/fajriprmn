@@ -44,6 +44,8 @@ Learning and building projects in AI, Machine Learning, and Data Science.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
+<br>
+
 <a href="https://kaggle.com/fajriprmn">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="40"/>
 </a>
