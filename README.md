@@ -48,7 +48,7 @@ Building intelligent systems with Deep Learning and Computer Vision.
 
 ## 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)](https://github.com/USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)](https://github.com/fajriprmn)
 
 ---
 
