@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fajri</h1>
-<h3 align="center">AI Engineer | Machine Learning | Computer Vision</h3>
+<h3 align="center">AI & Data Enthusiast | Machine Learning Learner</h3>
 
 <p align="center">
-Building intelligent systems with Deep Learning and Computer Vision.
+Learning and building projects in AI, Machine Learning, and Data Science.
 </p>
 
 ---
@@ -11,8 +11,6 @@ Building intelligent systems with Deep Learning and Computer Vision.
 
 * 🎓 Computer Science Student
 * 🤖 Interested in AI, Machine Learning, and Computer Vision
-* 📱 Currently building Android AI apps
-* 🔬 Research: Rice Leaf Disease Classification using CNN MobileNetV3
 
 <p> 
     <img src="https://komarev.com/ghpvc/?username=fajriprmn&label=Profile%20views&color=0e75b6&style=flat" alt="fajriprmn" /> 
