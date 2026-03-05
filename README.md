@@ -14,6 +14,10 @@ Building intelligent systems with Deep Learning and Computer Vision.
 * 📱 Currently building Android AI apps
 * 🔬 Research: Rice Leaf Disease Classification using CNN MobileNetV3
 
+<p> 
+    <img src="https://komarev.com/ghpvc/?username=fajriprmn&label=Profile%20views&color=0e75b6&style=flat" alt="fajriprmn" /> 
+</p>
+
 ---
 
 ## 🛠 Tech Stack
@@ -33,11 +37,6 @@ Building intelligent systems with Deep Learning and Computer Vision.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
 
 </p>
-
-
-<img src="https://profile-counter.glitch.me/fajriprmn/count.svg" />
-
-
 
 ---
 
