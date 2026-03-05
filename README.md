@@ -40,13 +40,14 @@ Learning and building projects in AI, Machine Learning, and Data Science.
 
 ## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/fajriprmn">
+<a href="https://linkedin.com/in/fajripramanaputra">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
 <br>
+<br>
 
-<a href="https://kaggle.com/fajriprmn">
+<a href="https://kaggle.com/fajripramanaputra">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="40"/>
 </a>
 
