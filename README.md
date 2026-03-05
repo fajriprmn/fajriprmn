@@ -38,19 +38,12 @@ Learning and building projects in AI, Machine Learning, and Data Science.
 
 ---
 
-## 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fajriprmn\&theme=tokyo-night)](https://github.com/fajriprmn)
-
----
-
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fajripramanaputra/)
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://kaggle.com/fajripramanaputra)
-
 
 ---
 
