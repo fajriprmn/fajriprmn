@@ -16,15 +16,6 @@ Building intelligent systems with Deep Learning and Computer Vision.
 
 ---
 
-## 🧠 AI / ML Projects
-
-| Project                          | Description                                     | Tech       |
-| -------------------------------- | ----------------------------------------------- | ---------- |
-| Rice Leaf Disease Classification | CNN MobileNetV3 for rice leaf disease detection | TensorFlow |
-| Sentiment Analysis               | NLP model for sentiment classification          | Python     |
-
----
-
 ## 🛠 Tech Stack
 
 <p align="left">
@@ -54,9 +45,12 @@ Building intelligent systems with Deep Learning and Computer Vision.
 
 ## 🌐 Connect With Me
 
-* LinkedIn
-* Kaggle
-* Portfolio Website
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fajripramanaputra/)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://kaggle.com/fajripramanaputra)
+
 
 ---
 
